@@ -1,0 +1,93 @@
+.box1{
+    box-shadow: 5px 10px #888888;
+    margin: 0 auto;
+    width: 450px;
+    height: 800px;
+    background-color: #AFECED;
+    border-radius: 10px;
+}
+h1{
+    font-size: 55px;
+        
+    background: -webkit-linear-gradient(#B24592,#F15F79);   
+    -webkit-background-clip: text;  
+    -webkit-text-fill-color: transparent;
+     text-transform: uppercase;
+    text-transform: uppercase;
+    padding-top: 50px;
+    padding-left: 40px;
+    letter-spacing: 8px;
+    font-weight: bold;
+}
+h2{
+    
+        font-size: 72px;
+            
+        background: -webkit-linear-gradient(#5A3F37,#2C7744);
+            
+        -webkit-background-clip: text;
+            
+        -webkit-text-fill-color: transparent;
+            
+        text-transform: uppercase;
+            
+        padding-left: 35px;
+            
+        letter-spacing: 2px;
+            
+        font-weight: bold;
+            
+        margin-top: -15px;
+            
+
+  }
+h3{
+    font-size: 72px;
+    background: -webkit-linear-gradient(#f7ff00, #db36a4);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-transform: uppercase;
+    padding-left: 35px;
+    letter-spacing: 2px;
+    font-weight: bold;
+    margin-top: -66px;
+}
+h4{
+    font-size: 72px;
+    background: -webkit-linear-gradient(#64b3f4, #c2e59c);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-transform: uppercase;
+    padding-left: 35px;
+    letter-spacing: 2px;
+    font-weight: bold;
+    margin-top: -66px;
+}
+h5{
+    font-size: 72px;
+    background: -webkit-linear-gradient(#CCCCB2, #757519);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-transform: uppercase;
+    padding-left: 35px;
+    letter-spacing: 2px;
+    font-weight: bold;
+    margin-top: -66px;
+}
+ul{
+    list-style-type: none;
+}
+a{
+    font-size: 32px;
+    text-decoration: none;
+    background-color: white;
+    color: red;
+    padding: 5px;
+}
+li{
+    margin: 19px;
+}
+.box2{
+    margin-top: -87px;
+    margin-left: -12px;
+}
